@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1f0e0d05-438d-4840-8441-189081e2fbd9" name="Default Changelist" comment="Django first project">
+      <change beforePath="$PROJECT_DIR$/spider/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/spider/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spider/polls/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider/polls/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spider/polls/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider/polls/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spider/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider/polls/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spider/spider/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider/spider/settings.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/yzhan27/spider" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cKzT4VDAdKQkhERFwuCqBRcnHQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\James\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f0e0d05-438d-4840-8441-189081e2fbd9" name="Default Changelist" comment="" />
+      <created>1590292078098</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590292078098</updated>
+      <workItem from="1590292086167" duration="7708000" />
+      <workItem from="1590303670791" duration="119000" />
+      <workItem from="1590303824427" duration="658000" />
+      <workItem from="1590371441912" duration="137000" />
+      <workItem from="1590372690957" duration="2966000" />
+      <workItem from="1590400315340" duration="1265000" />
+      <workItem from="1590469660499" duration="9904000" />
+    </task>
+    <task id="LOCAL-00001" summary="Django first project">
+      <created>1590299438271</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590299438271</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Django first project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Django first project" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="876" y="403" key="#Notifications" timestamp="1590303958647">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="876" y="403" key="#Notifications/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1590303958647" />
+    <state x="-1137" y="398" key="#Scopes" timestamp="1590296690156">
+      <screen x="-1858" y="0" width="1858" height="1080" />
+    </state>
+    <state x="-1137" y="398" key="#Scopes/-1858.0.1858.1080/62.0.1858.1080@-1858.0.1858.1080" timestamp="1590296690156" />
+    <state x="-1475" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590296505192">
+      <screen x="-1858" y="0" width="1858" height="1080" />
+    </state>
+    <state x="-1475" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1858.0.1858.1080/62.0.1858.1080@-1858.0.1858.1080" timestamp="1590296505192" />
+    <state x="290" y="206" key="FileChooserDialogImpl" timestamp="1590301790056">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="-784" y="291" key="FileChooserDialogImpl/-1858.0.1858.1080/62.0.1858.1080@-1858.0.1858.1080" timestamp="1590301159627" />
+    <state x="290" y="206" key="FileChooserDialogImpl/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1590301790056" />
+    <state x="616" y="465" key="Github.CreateGistDialog" timestamp="1590303923245">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="-641" y="445" key="Github.CreateGistDialog/-1858.0.1858.1080/62.0.1858.1080@-1858.0.1858.1080" timestamp="1590301203595" />
+    <state x="616" y="465" key="Github.CreateGistDialog/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1590303923245" />
+    <state x="863" y="452" key="Github.ShareDialog" timestamp="1590493513978">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="-586" y="441" key="Github.ShareDialog/-1858.0.1858.1080/62.0.1858.1080@-1858.0.1858.1080" timestamp="1590299803374" />
+    <state x="863" y="452" key="Github.ShareDialog/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1590493513978" />
+    <state x="852" y="245" key="Github.UntrackedFilesDialog" timestamp="1590304108253">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="852" y="245" key="Github.UntrackedFilesDialog/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1590304108253" />
+    <state x="711" y="163" key="SettingsEditor" timestamp="1590378684244">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="-1209" y="163" key="SettingsEditor/-1858.0.1858.1080/62.0.1858.1080@-1858.0.1858.1080" timestamp="1590299985594" />
+    <state x="711" y="163" key="SettingsEditor/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1590378684244" />
+    <state x="583" y="273" key="Vcs.Push.Dialog.v2" timestamp="1590303490703">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="583" y="273" key="Vcs.Push.Dialog.v2/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1590303490703" />
+    <state x="372" y="434" width="809" height="197" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1590301625229">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="372" y="434" width="809" height="197" key="git4idea.remote.GitConfigureRemotesDialog/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1590301625229" />
+    <state x="-635" y="334" key="svn.repositoryBrowser" timestamp="1590299844063">
+      <screen x="-1858" y="0" width="1858" height="1080" />
+    </state>
+    <state x="-635" y="334" key="svn.repositoryBrowser/-1858.0.1858.1080/62.0.1858.1080@-1858.0.1858.1080" timestamp="1590299844063" />
+  </component>
+</project>
