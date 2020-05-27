@@ -1,2 +1,2 @@
-# Second-django-app
-My Second django app
+# Third-django-app
+My Third django app
